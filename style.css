@@ -1,13 +1,11 @@
 .pageStyle{
-	align: middle;
+	margin: auto;
 	width: 75%;
-	height: 75%;
-    padding: 100px;
+    padding: 50px;
     background-color: white;
 }
 
 .background{
-	width: 100%;
-	height: 100%;
 	background-color: lightgray;
+	padding: 25px 0;
 }
