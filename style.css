@@ -40,12 +40,12 @@ h2 {
 
 .rightBox{
 	width: 30%;
-	float: right;
+	float: left;
 }
 
 img{
 	float: left;
-	padding-right: 10px;
+	margin-right: 10px;
 }
 
 a{
